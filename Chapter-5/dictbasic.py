@@ -10,3 +10,5 @@ print(student['name'])
 print(student)
 student["city"]="Pune"
 print(student)
+print(student.values())
+print(student.items())
